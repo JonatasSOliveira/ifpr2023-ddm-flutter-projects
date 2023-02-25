@@ -4,9 +4,9 @@ import 'package:atividade_funcoes/exercicio_iii.dart' as exercicio_iii;
 
 void main(List<String> arguments) {
   // Exercício I
-  // exercicio_i.procesarFuncoes();
+  exercicio_i.procesarFuncoes();
   // Exercício II
-  // exercicio_ii.iniciarAplicacao();
+  exercicio_ii.iniciarAplicacao();
   // Exercício III
   exercicio_iii.imprimirRespostaExercicioIII();
 }
