@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "fundamentos_dart",
+            "name": "atividade_funcoes",
             "request": "launch",
             "type": "dart"
         }
